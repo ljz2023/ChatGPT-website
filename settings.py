@@ -3,7 +3,7 @@
 SECRET_KEY = "asghnjadfbtywyn"
 
 # openAi api key
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 
 # openAi 官方 api
 URL = "https://api.openai.com/v1/chat/completions"
